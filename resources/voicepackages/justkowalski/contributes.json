@@ -1,0 +1,39 @@
+{
+  "contributes": [
+    {
+      "keywords": ["await"],
+      "voices": ["j_wait-a-minute.mp3"],
+      "texts": ["WAIT SENPAI!", "Don't forget to add async!"]
+    },
+    {
+      "keywords": ["function", "=>"],
+      "voices": ["j_yes.wav"],
+      "texts": ["Hai! That's a good looking function."]
+    },
+    {
+      "keywords": ["if"],
+      "voices": ["j_oh-hai-yo.wav"],
+      "texts": ["Ummm..."]
+    },
+    {
+      "keywords": ["for", "while"],
+      "voices": ["j_happy-squeals.wav"],
+      "texts": ["Ohhh spin senpai!"]
+    },
+    {
+      "keywords": ["catch"],
+      "voices": ["j_gomen.mp3"],
+      "texts": ["CATCH! IM SORRY!"]
+    },
+    {
+      "keywords": ["import"],
+      "voices": ["j_giggles.wav"],
+      "texts": ["You're so cute!"]
+    },
+    {
+      "keywords": ["fuck", "shit"],
+      "voices": ["j_kiss.wav"],
+      "texts": ["It's okay senpai!"]
+    }
+  ]
+}

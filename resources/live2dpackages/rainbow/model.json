@@ -1,0 +1,32 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "rainbow.moc3",
+		"Textures": [
+			"rainbow.2048/texture_00.png"
+		],
+		"Physics": "rainbow.physics3.json"
+	},
+	"layout":{
+		"width":5,
+		"center_x":0.1,
+		"center_y":-0.8
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen",
+				"ParamBrowLY",
+				"ParamBrowRY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
